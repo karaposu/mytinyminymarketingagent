@@ -1,6 +1,6 @@
 
-from praw_post_exporter import fetch_posts
-from LLM import gpt, read_and_prepare_prompt
+from post_exporter.reddit.praw_post_exporter import fetch_posts
+from utils.LLM  import gpt, read_and_prepare_prompt
 from tqdm import tqdm
 
 class Mytinyminymarketingagent:
