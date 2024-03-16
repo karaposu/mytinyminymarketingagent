@@ -1,0 +1,18 @@
+productDescription:
+  name: ComfyUI Cloud Server Setup Tutorial
+  description: >
+    A comprehensive YouTube tutorial that guides users through setting up ComfyUI
+    servers on the cloud, tailored for optimal performance and scalability.
+  targetAudience: people who are interested in stable diffusion or comfyui and who wish to deploy ComfyUI in a cloud environment.
+  benefits:
+    - Simplifies the complex process of cloud server setup for ComfyUI.
+    - Enhances performance for Mac users.
+    - Offers troubleshooting tips for common issues.
+
+hookpoints:
+  - id: performanceIssuesOnMac
+    description: Users complaining about or mentioning slow performance of ComfyUI on Mac.
+  - id: cloudSetupChallenges
+    description: Discussions around difficulties in setting up ComfyUI servers on the cloud.
+  - id: seekingTutorialsOrGuides
+    description: Posts where users are actively looking for tutorials, guides, or assistance with ComfyUI cloud server setup
