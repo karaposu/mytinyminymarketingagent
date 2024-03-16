@@ -1,5 +1,7 @@
 # mytinyminymarketingagent
 
+![Example Image](docs/mytinyminymarketingagent.drawio.png)
+
 is a dev-friendly open-source tool designed for marketing and content promotion assistance, which can be effortlessly deployed. 
 Its primary function is to utilize Large Language Models (LLMs) to meticulously search through various forums, web pages, and social media platforms for content that's highly relevant to your product/project/media content (freshly created YouTube tutorial, a blog post, a code repository, or an innovative startup concept)
 
