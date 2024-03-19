@@ -1,0 +1,12 @@
+wakeup_and_scan_period: 1h
+notification_period: after_wakeup_and_scan
+custom_notification_period: False
+
+#
+#productDescription:
+#  name: ComfyUI Cloud Server Setup Tutorial
+#  description: >
+#    A comprehensive YouTube tutorial that guides users through setting up ComfyUI
+#    servers on the cloud, tailored for optimal performance and scalability.
+#
+

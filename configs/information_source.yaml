@@ -1,0 +1,25 @@
+
+#go to reddit and 4chan. get list of all subreddits. Filter them with tff >1000 and last post.
+#get definitions of each subreddit and save it.
+# subreddit_corpus
+subreddit: definition
+
+#and then filter out using LLM and product descriptions
+
+
+reddit:
+  subreddits:
+    - comfyui
+    - StableDiffusion
+
+instagram:
+  pages:
+    - comfyui
+    - StableDiffusion
+
+4chan:
+  subforums:
+    - comfyui
+    - StableDiffusion
+
+
